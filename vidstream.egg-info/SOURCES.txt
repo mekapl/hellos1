@@ -1,0 +1,7 @@
+setup.py
+libname/__init__.py
+libname/hello.py
+vidstream.egg-info/PKG-INFO
+vidstream.egg-info/SOURCES.txt
+vidstream.egg-info/dependency_links.txt
+vidstream.egg-info/top_level.txt
